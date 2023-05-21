@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<College>
+
+    <Student>
+        <id>156</id>
+        <name>Riaz</name>
+        <age>22</age>
+        <email>riaz@gmail.com</email>
+        <phone>0123-4567-8901</phone>
+        <date_of_join>20022-02-08</date_of_join>
+    </Student>
+
+    <Student>
+        <id>133</id>
+        <name>Furqan</name>
+        <age>23</age>
+        <email>furqi@gmail.com</email>
+        <phone>0123-4567-8902</phone>
+        <date_of_join>2023-04-13</date_of_join>
+    </Student>
+
+    <Student>
+        <id>134</id>
+        <name>Imran</name>
+        <age>25</age>
+        <email>imran@gmail.com</email>
+        <phone>0123-4567-8903</phone>
+        <date_of_join>2019-12-12</date_of_join>
+    </Student>
+      <Student>
+        <id>132</id>
+        <name>farooq</name>
+        <age>22</age>
+        <email>farooq@gmail.com</email>
+        <phone>0123-4567-8903</phone>
+        <date_of_join>2019-12-12</date_of_join>
+    </Student>
+  <Student>
+        <id>134</id>
+        <name>Imran</name>
+        <age>25</age>
+        <email>imran@gmail.com</email>
+        <phone>0123-4567-8903</phone>
+        <date_of_join>2019-12-12</date_of_join>
+    </Student>
+</College>

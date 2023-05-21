@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Class>
+
+    <std:student xmlns:std="http://www.w3.org/TR/html4/">
+        <std:name>Riaz Ahmed</std:name>
+        <std:age>23</std:age>
+    </std:student>
+
+    <std:student xmlns:std="http://www.w3.org/TR/html4/">
+        <std:name>Abdul Wahab</std:name>
+        <std:age>25</std:age>
+    </std:student>
+
+    <student>
+        <name>Meer Aslam</name>
+        <age>26</age>
+    </student>
+
+    <student>
+        <name>Muhammad Kashan</name>
+        <age>24</age>
+    </student>
+
+    <student>
+        <name>Javed Iqbal</name>
+        <age>21</age>
+    </student>
+
+    <student>
+        <name>Rudab Ahmed</name>
+        <age>20</age>
+    </student>
+
+
+</Class>

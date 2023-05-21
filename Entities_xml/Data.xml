@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tech.pk SYSTEM "Data.dtd" [
+<!ENTITY S1 "Python">
+<!ENTITY S2 "PHP">
+<!ENTITY S3 "C#">
+<!ENTITY S4 "Javascript">
+<!ENTITY S5 "Ruby">
+<!ENTITY S6 "R">
+<!ENTITY S7 "Swift">
+<!ENTITY S8 "Java">
+<!ENTITY S9 "SQL">
+]>
+<Tech.PK>
+<employee id="1">
+<name>Ahmed</name>
+<id>344</id>
+<age>23</age>
+<qualification>MCS</qualification>
+<skills>&S1;, &S2;, &S3;</skills>
+<email>ahmed@gmail.com</email>
+</employee>
+
+<employee id="2">
+<name>Riaz</name>
+<id>354</id>
+<age>29</age>
+<qualification>MSCS</qualification>
+<skills>&S3;, &S6;, &S4; </skills>
+<email>Riaz@gmail.com</email>
+</employee>
+
+<employee id="3">
+<name>Imran</name>
+<id>356</id>
+<age>25</age>
+<qualification>BSc</qualification>
+<skills>&S3;, &S4;, &S7;</skills>
+<email>imran@gmail.com</email>
+</employee>
+
+<employee id="4">
+<name>Ali</name>
+<id>364</id>
+<age>23</age>
+<qualification>BS in Applied Maths</qualification>
+<skills>&S4;, &S5;, &S9;</skills>
+<email>ali@gmail.com</email>
+</employee>
+
+<employee id="5">
+<name>Rehan</name>
+<id>554</id>
+<age>26</age>
+<qualification>Mcs</qualification>
+<skills>&S6;, &S4;, &S8;</skills>
+<email>rehan@gmail.com</email>
+</employee>
+
+<employee id="6">
+<name>Rifaqat</name>
+<id>764</id>
+<age>30</age>
+<qualification>MS in IT</qualification>
+<skills>&S1;, &S3;, &S6;,&S4; </skills>
+<email>rifaqat@gmail.com</email>
+</employee>
+
+<employee id="7">
+<name>Mubashir</name>
+<id>784</id>
+<age>28</age>
+<qualification>Mcs</qualification>
+<skills>&S2;, &S5;, &S3;</skills>
+<email>Mubashir@gmail.com</email>
+</employee>
+</Tech.PK>

@@ -1,0 +1,9 @@
+<!ELEMENT Javascript_Test (Student+)>
+<!ELEMENT Student (name,age,Total_marks,Obtained_marks,renarks)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT Total_marks (#PCDATA)>
+<!ELEMENT Obtained_marks (#PCDATA)>
+<!ELEMENT renarks (#PCDATA)>
+<!ATTLIST Student gender CDATA #REQUIRED>
+<!ATTLIST renarks grade CDATA #REQUIRED>

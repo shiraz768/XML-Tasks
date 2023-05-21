@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Python_Class>
+	<student gender="male">
+		<name>
+			Shiraz Haidar
+		</name>
+		<age>
+			21
+		</age>
+		<Total_marks>
+			100
+		</Total_marks>
+		<Obtained_marks>
+			45
+		</Obtained_marks>
+		<student gender="male">
+			<name>
+				Ahmed
+			</name>
+			<age>
+				18
+			</age>
+			<Total_marks>
+				100
+			</Total_marks>
+			<Obtained_marks>
+				89
+			</Obtained_marks>
+			<student gender="female">
+				<name>
+					Raima bukhari
+				</name>
+				<age>
+					20
+				</age>
+				<Total_marks>
+					100
+				</Total_marks>
+				<Obtained_marks>
+					78
+				</Obtained_marks>
+				<student gender="female">
+					<name>
+						Rubina Khan
+					</name>
+					<age>
+						21
+					</age>
+					<Total_marks>
+						100
+					</Total_marks>
+					<Obtained_marks>
+						89
+					</Obtained_marks>
+				</student>
+			</student>
+		</student>
+	</student>
+</Python_Class>
